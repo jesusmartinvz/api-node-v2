@@ -9,7 +9,7 @@ const doc = {
   },
   servers: [
     {
-      url: "https://infobaseapi.herokuapp.com/api"
+      url: "https://node-api-mysql-v2.herokuapp.com/api"
     }
   ],
   components: {
